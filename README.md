@@ -46,4 +46,4 @@ Have a favorite resource that helps you as a SOC analyst? Open a pull request or
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/sco-sec/LICENSE).
